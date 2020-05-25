@@ -1,3 +1,1 @@
-changing something
-
-I changed something directly in GITHUB!
+This is a simple HelloWorld python script. Enjoy!
